@@ -7,7 +7,7 @@ body {
     background: #c8baba;
     font-family: 'Shantell Sans', cursive;
     font-size: 110%;
-    background-image: url('./weather/img1.jpeg');
+    background-image: url('img1.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
